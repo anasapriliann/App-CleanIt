@@ -79,7 +79,7 @@ img[name='wash']{
 </div>
 <div class="text">
   <seaction>
-    <p>Pancarona <br> Car Wash</p>
+    <p>CleanIt</p>
   </seaction>
   </div
 
